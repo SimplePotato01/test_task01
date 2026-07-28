@@ -105,8 +105,8 @@ make run-app
 
 # Примеры
 ./build/logger_app app.log                  # Уровень по умолчанию: STATE3
-./build/logger_app /var/log/app.log STATE1   # Уровень по умолчанию: STATE1
-./build/logger_app logs/debug.log STATE2   # Уровень по умолчанию: STATE2
+./build/logger_app /var/log/app.log STATE1  # Уровень по умолчанию: STATE1
+./build/logger_app logs/debug.log STATE2    # Уровень по умолчанию: STATE2
 ```
 
 ## Использование
